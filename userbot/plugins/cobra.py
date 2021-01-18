@@ -1,6 +1,6 @@
 # Black Snake Original 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 # kangers Keep Credits 😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒😒
-# Made by BS -Team
+# Made by Dc -Team
 # Don't remove these lines u fool ,,, 
 #
 #
@@ -39,7 +39,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
             if event.query.user_id == bot.uid :
                 current_page_number=0
                 dc = paginate_help(current_page_number, CMD_LIST, "helpme")
-                await event.edit("`>>>\n\nReopened The Main Menu of \n©BLACKSNAKE` ", buttons=bs)
+                await event.edit("`>>>\n\nReopened The Main Menu of \n©DARKCOBRA` ", buttons=bs)
             else:
                 reply_pop_up_alert = "Please get your own Userbot,for more info visit @BLACKSNAK6_support!"
                 await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
@@ -73,7 +73,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
             await event.edit(buttons=dc)
         else:
             Cobra = "Please get your own Userbot, and don't use mine for more info visit @BLACKSNAK6_support!"
-            await event.answer(Snake, cache_time=0, alert=True)
+            await event.answer(Dark, cache_time=0, alert=True)
 
     @tgbot.on(events.callbackquery.CallbackQuery(  # pylint:disable=E0602
         data=re.compile(b"helpme_prev\((.+?)\)")
@@ -166,7 +166,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
               else:
                     shortname = event.data_match.group(1).decode("UTF-8")
                     fcix = [custom.Button.inline("  𝕭𝖆𝖈𝖐 ",data="back({})".format(shivam)),custom.Button.inline(" 𝕮𝖑𝖔𝖘𝖊 ", data="close"),custom.Button.inline(" 𝖀𝖓𝖑𝖔𝖆𝖉 ",data="unload({})".format(shivam_sh1vam))]
-                    reply_pop_up_alert = "Please get your own Userbot,for more info visit @DARK_COBRA_SUPPORT!"
+                    reply_pop_up_alert = "Please get your own Userbot,for more info visit @BLACKSNAK6_support!"
                     await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
     @tgbot.on(events.callbackquery.CallbackQuery(data=re.compile(b"unload\((.+?)\)")))
    
