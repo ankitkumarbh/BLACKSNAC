@@ -45,7 +45,7 @@
     },
     "ALIVE_PHOTTO": {
       "description": "Let it be what it is(skip)..or you can change the link according to your convince..this link is useful for `.awake` command.",
-      "value": "https://telegra.ph/file/07d80d348233e32ace99e.mp4",
+      "value": "https://telegra.ph/file/a36797b8594de64585024.mp4",
       "required": true
     },
     "DEFAULT_BIO": {
@@ -55,7 +55,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "https://telegra.ph/file/07d80d348233e32ace99e.mp4",
+      "value": "https://telegra.ph/file/a36797b8594de64585024.mp4",
       "required": true
     },
     "PM_PERMIT_GROUP_ID": {
