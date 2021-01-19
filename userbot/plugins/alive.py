@@ -45,9 +45,9 @@ async def hmm(yes):
     pm_caption += f"🔶 **Telethon Version** : {version.__version__}\n"
     pm_caption += f"🔶 **Telethon Version** : 3.8.3\n"
     pm_caption += "🔶 **Support** : [ᴊᴏɪɴ](https://t.meBLACKSNAK6_support)\n"
+    pm_caption += "🔶 **Git Hub** : [REPO](https://github.com/BLACKSNAC/BLACKSNAC) \n"
     pm_caption += f"🔶 **Database Status** : All OK!\n\n"
     pm_caption += f"🔶 **My pro owner** : [{DEFAULTUSER}](tg://user?id={ghanti})\n"
-    pm_caption += "    [✨REPO✨](https://github.com/BLACKSNAC/BLACKSNAC) 🔹 **Snake Uptime** : {uptime}"
     on = await borg.send_file(yes.chat_id, file=file1,caption=pm_caption)
 
     await asyncio.sleep(edit_time)
