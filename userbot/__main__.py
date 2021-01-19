@@ -60,7 +60,7 @@ if LOAD_ASSISTANT == True:
 else:
     print("Assitant is Not Loading As U Have Disabled")
 
-print("BLACK SNAKE userbot AND YOUR ASSISTANT is Active Enjoy Join @BLACKSNAK6_support For Updates.")
+print("Your Bot is Deployed sucessfully  !! now type .alive for checking me !! Join @Black_Snake_Userbot_Support for any help..")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
