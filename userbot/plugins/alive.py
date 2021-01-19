@@ -27,7 +27,7 @@ global ghanti
 ghanti = borg.uid
 edit_time = 1
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/a183c1eef64298bae0141.jpg"
+file1 = "https://telegra.ph/file/53dc7a79cd5f5311f426f.jpg"
 """ =======================CONSTANTS====================== """
 
 
@@ -40,15 +40,14 @@ async def hmm(yes):
     ghanti = borg.uid
     await yes.delete()
     uptime = await dcdef.get_readable_time((time.time() - Lastupdate))
-    pm_caption = "** BLACK SNAKE 𝙸𝚂 𝙾𝙽𝙻𝙸𝙽𝙴**\n\n"
-    pm_caption += "**Yes Sir, Am Alive And Systems Are Working Perfectly As It Should Be...**\n\n"
-    pm_caption += "✘ About My Information ✘\n\n"
-    pm_caption += f"➾ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** ☞ {version.__version__}\n"
-    pm_caption += "➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [ᴊᴏɪɴ](https://t.meBLACKSNAK6_support)\n"
-    pm_caption += "➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [𝚃𝙴𝙰𝙼 BLACK](https://github.com/BLACK-SNAKE)\n"
-    pm_caption += "➾ **ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ** ☞ [BLACK SNAKE](https://github.com/BLACKSNAC/BLACKSNAC#)\n\n"
-    pm_caption += f"➾ **ᴜᴘᴛɪᴍᴇ** ☞ {uptime}\n\n"
-    pm_caption += f"➾ **ᴍʏ ᴍᴀsᴛᴇʀ** ☞ [{DEFAULTUSER}](tg://user?id={ghanti})\n"
+    pm_caption = "** Welcome To Black Snake **\n\n"
+    pm_caption += "**Hey!, I'm Alive. All Systems are online and functioning Perfectly!...**\n\n"
+    pm_caption += f"🔶 **Telethon Version** : {version.__version__}\n"
+    pm_caption += f"🔶 **Telethon Version** : 3.8.3\n"
+    pm_caption += "🔶 **Support** : [ᴊᴏɪɴ](https://t.meBLACKSNAK6_support)\n"
+    pm_caption += f"🔶 **Database Status** : All OK!\n\n"
+    pm_caption += f"🔶 **My pro owner** : [{DEFAULTUSER}](tg://user?id={ghanti})\n"
+    pm_caption += "    [✨REPO✨](https://github.com/BLACKSNAC/BLACKSNAC) 🔹 **Snake Uptime** : {uptime}"
     on = await borg.send_file(yes.chat_id, file=file1,caption=pm_caption)
 
     await asyncio.sleep(edit_time)
