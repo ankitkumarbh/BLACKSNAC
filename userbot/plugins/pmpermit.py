@@ -26,15 +26,13 @@ PM_ON_OFF = Config.PM_DATA
 DEFAULTUSER = (
                str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
 )
-CUSTOM_MIDDLE_PMP = str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "**YOU HAVE TRESPASSED TO MY MASTERS INBOX** \n THIS IS ILLEGAL AND REGARDED AS A CRIME" 
+CUSTOM_MIDDLE_PMP = str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "**YOU HAVE TRESPASSED TO MY MASTERS INBOX** \n THIS IS ILLEGAL AND REGARDED AS A CRIME🔥" 
 
 USER_BOT_WARN_ZERO = "`You were spamming my sweet master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot⭕️.`\n**Now GTFO, i'm busy**"
-USER_BOT_NO_WARN = ("`Hello, This Is An Antispam Userbot Service⚠️.You have found your way here to my sweet master's ,`"
-                   f"{DEFAULTUSER}'s inbox. He is little busy right now..so please follow the below guidelines so that he can decide the reason, why are you here and approve you\n"
+USER_BOT_NO_WARN = ("`Hello Ser! This is **BLACKSNAKE Userbot**\n Private Messaging Security Protocol⚠️.\nYou have found your way here to my sweet master's ,`"
+                   f"{DEFAULTUSER}'s inbox.\n"
                    f"\n**{CUSTOM_MIDDLE_PMP}**\n\n"
-                    "**Mostly he is a busy person.. And told me to take care of his inbox..🤖**\n\n"
-                    "❤️Please Register Your Request/query!❤️\nSend `/start` To Register Your Request!! 🔥\n"
-                    "**Okay now please send a** 🔥 `/start` 🔥 **To Start A Valid Conversation with him..!!❤**")
+                    "**Okay! now please send **  `/start`  **To Start A Valid Conversation with him..!!🔥**")
 
 
 if Var.PRIVATE_GROUP_ID is not None:
