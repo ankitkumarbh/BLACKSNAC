@@ -27,7 +27,7 @@ global ghanti
 ghanti = borg.uid
 edit_time = 1
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/53dc7a79cd5f5311f426f.jpg"
+file1 = "https://telegra.ph/file/44a1f8ab1e7c36e347ecf.jpg"
 """ =======================CONSTANTS====================== """
 
 
@@ -40,13 +40,15 @@ async def hmm(yes):
     ghanti = borg.uid
     await yes.delete()
     uptime = await dcdef.get_readable_time((time.time() - Lastupdate))
-    pm_caption = "** Welcome To Black Snake **\n\n"
+    pm_caption = "** BLACK SNAKE IS ONLINE **\n\n"
     pm_caption += "**Hey!, I'm Alive. All Systems are online and functioning Perfectly!...**\n\n"
+    pm_caption += f"**✘ About My System ✘ **\n\n
     pm_caption += f"🔶 **Telethon Version** : {version.__version__}\n"
-    pm_caption += f"🔶 **Python** : 3.8.3\n"
-    pm_caption += "🔶 **Support** : @BLACK_snake_support\n"
+    pm_caption += f"🔶 **Python Version** : 3.8.3\n"
+    pm_caption += "🔶 **Support** : @Black_Snake_Userbot\n"
     pm_caption += "🔶 **Git Hub** : [REPO](https://github.com/BLACKSNAC/BLACKSNAC) \n"
     pm_caption += f"🔶 **Database Status** : All OK!\n\n"
+
     pm_caption += f"🔶 **My pro owner** : [{DEFAULTUSER}](tg://user?id={ghanti})\n"
     on = await borg.send_file(yes.chat_id, file=file1,caption=pm_caption)
 
