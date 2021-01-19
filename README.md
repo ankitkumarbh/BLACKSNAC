@@ -2,7 +2,7 @@
 
 <h3 style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 0px !important;">
 
-𝔹𝕃𝔸ℂ𝕂 𝕊ℕ𝔸𝕂𝔼</h3>
+🔥 The Most Powerfull Userbot 🔥 𝔹𝕃𝔸ℂ𝕂 𝕊ℕ𝔸𝕂𝔼</h3>
 
 <div style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px; margin-bottom: 16px;">
 
@@ -73,7 +73,7 @@ style="background-color: initial; box-sizing: border-box; color: #0366d6; text-d
 
 <div style="box-sizing: border-box;">
 
-<a href="https://t.me/Black_snack_support"><img src="https://camo.githubusercontent.com/e531cdc1dbdcb78f8ffe767875a6b6d33c43e2e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d2532304368616e6e656c2d7265642e7376673f6c6f676f3d54656c656772616d" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a><span id="goog_140558409"></span><a href="https://www.blogger.com/"></a><span id="goog_140558410"></span>&nbsp;<a href="https://t.me/BLACKSNAK6_support"><img src="https://camo.githubusercontent.com/7b0a8bb8af0b2466dd1c38a6c1367ddee45ba266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d25323047726f75702d626c75652e7376673f6c6f676f3d74656c656772616d" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://t.me/Black_Snake_Userbot_Support"><img src="https://camo.githubusercontent.com/e531cdc1dbdcb78f8ffe767875a6b6d33c43e2e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d2532304368616e6e656c2d7265642e7376673f6c6f676f3d54656c656772616d" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a><span id="goog_140558409"></span><a href="https://www.blogger.com/"></a><span id="goog_140558410"></span>&nbsp;<a href="https://t.me/Black_Snake_Userbot"><img src="https://camo.githubusercontent.com/7b0a8bb8af0b2466dd1c38a6c1367ddee45ba266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d25323047726f75702d626c75652e7376673f6c6f676f3d74656c656772616d" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
 <h2 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;">
 
