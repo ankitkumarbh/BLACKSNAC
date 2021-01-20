@@ -42,7 +42,7 @@ async def hmm(yes):
     uptime = await dcdef.get_readable_time((time.time() - Lastupdate))
     pm_caption = "** BLACK SNAKE IS ONLINE **\n\n"
     pm_caption += "**Hey!, I'm Alive. All Systems are online and functioning Perfectly!...**\n\n"
-    pm_caption += f"**✘ About My System ✘ **\n\n
+    pm_caption += f"**✘ About My System ✘ **\n\n"
     pm_caption += f"🔶 **Telethon Version** : {version.__version__}\n"
     pm_caption += f"🔶 **Python Version** : 3.8.3\n"
     pm_caption += "🔶 **Support** : @Black_Snake_Userbot\n"
