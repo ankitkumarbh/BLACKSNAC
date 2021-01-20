@@ -47,6 +47,7 @@ async def hmm(yes):
     pm_caption += f"🔶 **Python Version** : 3.8.3\n"
     pm_caption += "🔶 **Support** : @Black_Snake_Userbot\n"
     pm_caption += "🔶 **Git Hub** : [REPO](https://github.com/BLACKSNAC/BLACKSNAC) \n"
+    pm_caption += f"🔶 **ᴜᴘᴛɪᴍᴇ** ☞ {uptime}\n\n"
     pm_caption += f"🔶 **Database Status** : All OK!\n\n"
 
     pm_caption += f"🔶 **My pro owner** : [{DEFAULTUSER}](tg://user?id={ghanti})\n"
