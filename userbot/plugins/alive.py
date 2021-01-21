@@ -45,7 +45,7 @@ async def hmm(yes):
     pm_caption += f"**✘ About My System ✘ **\n\n"
     pm_caption += f"🔶 **Telethon Version** : {version.__version__}\n"
     pm_caption += f"🔶 **Python Version** : 3.8.3\n"
-    pm_caption += "🔶 **Support** : [JOIN](@Black_Snake_Userbot)\n"
+    pm_caption += "🔶 **Support** : [JOIN](https://t.me/Black_Snake_Userbot)\n"
     pm_caption += "🔶 **Git Hub** : [REPO](https://github.com/BLACKSNAC/BLACKSNAC) \n"
     pm_caption += f"🔶 **ᴜᴘᴛɪᴍᴇ** ☞ {uptime}\n\n"
     pm_caption += f"🔶 **Database Status** : All OK!\n\n"
