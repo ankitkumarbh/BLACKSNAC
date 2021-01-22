@@ -148,7 +148,7 @@ async def upstream(ups):
             await asyncio.sleep(1)
             await ups.edit("`⬛⬛⬛⬛ \n⬛❇️❇️⬛ \n⬛❇️❇️⬛ \n⬛⬛⬛⬛`")
             await asyncio.sleep(1)
-        await ups.edit("`🔶Updating BLACKSNAKE🔶\n\nPlease wait for 3-5min\nAfter that try .alive or .help to check`me! \n\n**Powered by :-**\n©BLACK_SANKE_SUPPORT ")
+        await ups.edit("`🔶Updating BLACKSNAKE🔶\n\nPlease wait for 3-5min\nAfter that try .alive or .help to check`me! \n\n**Powered by :-**\n©BLACK_SNAKE_SUPPORT ")
         remote.push(refspec="HEAD:refs/heads/master", force=True)
     else:
         try:
