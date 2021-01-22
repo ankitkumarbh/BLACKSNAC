@@ -1,6 +1,6 @@
-#"""Update UserBot Code (FOR DARKCOBRA USERBOT)
+#"""Update UserBot Code (FOR BLACK SNAKE USERBOT)
 #Syntax: .update
-#\nAll Credits goes to © @hellboi_atul
+#\nAll Credits goes to © @Royal_boy_45
 #\nFor this awasome plugin.\nPorted from PpaperPlane Extended"""
 from telethon import events
 from os import remove, execle, path, makedirs, getenv, environ, execl
