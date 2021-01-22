@@ -1,5 +1,5 @@
 
-# Now will be used in DARK COBRA too....
+# Now will be used in BLACK SNAKE too....
 
 import asyncio
 import datetime
