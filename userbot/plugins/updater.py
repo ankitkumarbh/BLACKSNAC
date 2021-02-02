@@ -1,6 +1,6 @@
 #"""Update UserBot Code (FOR BLACK SNAKE USERBOT)
 #Syntax: .update
-#\nAll Credits goes to © @Royal_boy_45
+#\nAll Credits goes to © @Royal_Boy_45
 #\nFor this awasome plugin.\nPorted from PpaperPlane Extended"""
 from telethon import events
 from os import remove, execle, path, makedirs, getenv, environ, execl
@@ -86,7 +86,7 @@ async def upstream(ups):
     changelog = await gen_chlog(repo, f'HEAD..upstream/{ac_br}')
     if not changelog and not force_update:
         await ups.edit(
-            f'\n**{ac_br} master your bot is already up to date..**\n')
+            f'\n**{ac_br} ßoss your bot is already up to date..**\n')
         repo.__del__()
         return
     if conf != "now" and not force_update:
@@ -107,7 +107,7 @@ async def upstream(ups):
         await ups.respond("do `.update now` to update")
         return
     if force_update:
-        await ups.edit('Force-Syncing to latest stable userbot code, please wait master...')
+        await ups.edit('Force-Syncing to latest stable userbot code, please wait ßoss...')
     else:
         await ups.edit('`Updating userbot, please wait....you are my best boss🤗🤗')
     if HEROKU_API_KEY is not None:
