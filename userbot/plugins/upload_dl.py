@@ -1,4 +1,4 @@
-# © By ShivanshGang™ And IndianBot™
+# © By ShivanshGang™ 
 """ Userbot module which contains everything related to \
     downloading/uploading from/to the server. """
 
