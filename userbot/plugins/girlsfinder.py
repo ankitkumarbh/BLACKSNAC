@@ -30,9 +30,9 @@ async def _(event):
              await event.delete()
              await event.client.send_message(event.chat_id, response.message)
    
-           Madharchod Kang mat Ker Na Bosdike Randi ki aulad 
-           Jo Kang Kiya uski ma ko undertaker chode ganad Chala Jayega ga Teri ma Ka
+#           Madharchod Kang mat Ker Na Bosdike Randi ki aulad 
+#           Jo Kang Kiya uski ma ko undertaker chode ganad Chala Jayega ga Teri ma Ka
 
-  Made by
-  Shivansh Rajput
-  @Royal_Boy_45 , @Royal_king7
+#  Made by
+#  Shivansh Rajput
+#  @Royal_Boy_45 , @Royal_king7
