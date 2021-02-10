@@ -99,7 +99,7 @@ async def _(event):
                             try:
                                 fedList.append(line[:36])
                             except BaseException:
-                                passelse:
+                                passelse
                         return
                 if len(fedList) == 0:
                     await event.edit(f"Something went wrong. Retrying ({a+1}/3)...")
