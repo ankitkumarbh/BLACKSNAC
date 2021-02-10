@@ -1,4 +1,4 @@
-#     Black snake - UserBot
+#    Black snake - UserBot
 #    Copyright (C) 2020 Black Snake Bot
 
 #    This program is free software: you can redistribute it and/or modify
@@ -99,7 +99,7 @@ async def _(event):
                             try:
                                 fedList.append(line[:36])
                             except BaseException:
-                                passelse
+                                passelse:
                         return
                 if len(fedList) == 0:
                     await event.edit(f"Something went wrong. Retrying ({a+1}/3)...")
