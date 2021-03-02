@@ -29,7 +29,7 @@ async def _(event):
         other_lines =  soup.split("\n")[1:]
         for line in other_lines:
             await cipher.edit(line) 
-            print('\n\n✨ ©DARK COBRA ✨') 
+            print('\n\n✨ © BLACK SNAKE ✨') 
     except:
             await cipher.edit("Not a Valid ip/host or Don't Have Enough Info.")
     
@@ -136,7 +136,7 @@ async def _(event):
     
 CMD_HELP.update(
     {
-        "cipherxiptools": "cipherxiptools\
+        "iptools": "cipherxiptools\
         \n\nSyntax : .nmap <ip/host>\
         \nUsage : Perform nmap on the defined ip/host address.\
         \n\nSyntax : .honeypot <ip>\
