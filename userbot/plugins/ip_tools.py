@@ -1,6 +1,6 @@
-# Advanced Web Tools Plugin Made by @Hackintush..
+# Advanced Web Tools Plugin Made by @Royal_Boy_45
 # All Credits Belong to CɪᴘʜᴇʀX..
-# Edited and ported with accordance to the utility by @hellboi_atul...Itz team DC
+# Edited and ported with accordance to the utility by @hellboi_atul...Itz team Snack
 # Use on your own risk..we aren't responsible for any illegal activities done by you..this module is for educational purposes only..neither the team or the maker of the plugin is responsible..
 # If you remove these 5 lines you are the geyest gey in the whole world..
 import json
